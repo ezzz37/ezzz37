@@ -22,13 +22,7 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,bash" alt="Lenguajes de Programación" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express" alt="Frameworks y Desarrollo" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,azure,ssms" alt="Bases de Datos y Cloud" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Herramientas de Desarrollo" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,bash,dotnet,react,nodejs,express,sqlite,mysql,postgresql,azure,ssms,git,github,docker,postman" alt="Mi Stack Tecnológico" />
 </p>
 
 **Notas sobre los iconos:**
