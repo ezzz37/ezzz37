@@ -22,7 +22,9 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,dotnet,react,nodejs,express,sqlite,az,git,github,docker,postman" alt="Mi Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,dotnet,react,nodejs,express,az,postman" alt="Lenguajes y Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,docker,vscode,visualstudio,figma" alt="Bases de Datos y Herramientas" />
 </p>
 
 ---
