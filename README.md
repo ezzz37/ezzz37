@@ -22,7 +22,7 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,bash,cs,ts,dotnet,react,nodejs,sqlite,sqlserver,git,github,docker,vscode,visualstudio,figma,linux,windows,azure,androidstudio,apple,arch,bootstrap,cloudflare,fastapi,firebase,gtk,heroku,kali,mysql,neovim,npm,powershell,redhat,sublime,ubuntu,debian" alt="Stack Tecnológico" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,bash,cs,ts,dotnet,react,nodejs,sqlite,git,github,docker,vscode,visualstudio,figma,linux,windows,azure,androidstudio,apple,arch,bootstrap,cloudflare,fastapi,firebase,gtk,heroku,kali,mysql,neovim,npm,powershell,redhat,sublime,ubuntu,debian" alt="Stack Tecnológico" style="vertical-align: middle;" />
   <span style="font-family:sans-serif; font-size:12px; vertical-align: middle; margin-left: 10px;">
   </span>
 </p>
