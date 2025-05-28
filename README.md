@@ -19,13 +19,15 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. A
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react.js,python,.NET_core/framework,ASP.NET,boostrap" alt="Lenguajes y Frameworks Web" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="Lenguajes y Web/Backend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,azure,sql_server" alt="Bases de Datos y Datos" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,dotnet,cs" alt="Frameworks y Librerías" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,canva,visual_studio_IDE" alt="Herramientas Dev y Diseño" />
+  <img src="https://skillicons.dev/icons?i=sqlite,azure,ssms" alt="Bases de Datos y Nube" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="Otros" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,figma" alt="Herramientas de Desarrollo" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="Sistemas Operativos" />
 </p>
 
 ---
