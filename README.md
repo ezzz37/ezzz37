@@ -39,7 +39,6 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzz37&layout=compact&theme=dark&cache_seconds=0" alt="Top Lenguajes" />
 </p>
 
-
 ---
 
 ### 🌐 Conéctate Conmigo
