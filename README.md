@@ -1,16 +1,19 @@
-![Tu Banner Personalizado](banner.png)
-
-<h3 align="center">¡Bienvenido a mi perfil de GitHub! 👋</h3>
+<h1 align="center">¡Hola! Soy Ezequiel Pretti 👋</h1>
+<h3 align="center">Estudiante de Ingeniería en Sistemas de Información</h3>
 
 ---
 
 ### 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Actualmente, estoy enfocado en profundizar mis conocimientos en el desarrollo web y la ciencia de datos. Siempre abierto a aprender nuevas tecnologías y colaborar en proyectos interesantes.
+Soy Ezequiel Pretti, tengo 20 años y actualmente estoy en el tercer año de Ingeniería en Sistemas de Información en la UTN-FRLP, con una gran pasión por la informática y las tecnologías. Me destaco por mi curiosidad, capacidad autodidacta y compromiso con el aprendizaje constante.
 
-- 👨‍💻  Desarrollando habilidades como **Full Stack Developer** y **Analista de Ciberseguridad**.
-- 💡  Interesado en **Automatización**, **Optimización de procesos**. **Desarrollo web**
-- 🤝  Buscando oportunidades para colaborar en proyectos de código abierto.
+He desarrollado diversos proyectos personales que abarcan desde programación y bases de datos hasta scripting y desarrollo móvil. Tengo experiencia en desarrollo, pruebas y despliegues de proyectos web de manera freelancer.
+
+Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el área IT, con el objetivo de seguir creciendo profesionalmente y aplicar mis conocimientos en un entorno real.
+
+- 🌱  Enfocado en aprender y crecer en el mundo del desarrollo de software.
+- 💡  Interesado en la arquitectura de sistemas y la optimización de procesos.
+- 🤝  Abierto a colaborar en proyectos interesantes y contribuir a la comunidad.
 
 ---
 
@@ -19,20 +22,47 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. A
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="Lenguajes y Web/Backend" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,bash" alt="Lenguajes de Programación" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,dotnet,cs" alt="Frameworks y Librerías" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,nodejs,express" alt="Frameworks y Tecnologías" />
   <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,azure,ssms" alt="Bases de Datos y Nube" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,azure,github" alt="Bases de Datos y Cloud" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,figma" alt="Herramientas de Desarrollo" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,docker,postman" alt="Herramientas de Desarrollo y DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,canva" alt="Diseño y Otros" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="Sistemas Operativos" />
 </p>
 
+**Notas sobre los iconos:**
+* `c` para C.
+* `kotlin` para Kotlin (se mencionó "librerías de R", pero Kotlin es el lenguaje).
+* `py` para Python.
+* `js` para JavaScript.
+* `html` para HTML.
+* `css` para CSS.
+* `cs` para C#.
+* `ts` para TypeScript.
+* `bash` para Bash Scripting.
+* `react` para React.js.
+* `dotnet` para .NET y ASP.NET.
+* `bootstrap` para Bootstrap.
+* `nodejs` y `express` para APIs/API Rest con Node.js (comunes con JS).
+* `sqlite` para SQLite.
+* `mysql` y `postgresql` (asumo que "SQL Server" se refiere al conocimiento de SQL en general, pero si usaste SQL Server Management Studio, `ssms` también es una opción). Agrego MySQL y PostgreSQL ya que son muy comunes con SQL.
+* `azure` para despliegues en Azure.
+* `git` y `github` para Git/GitHub.
+* `vscode` para Visual Studio Code.
+* `visualstudio` para Visual Studio IDE.
+* `docker` para Docker.
+* `postman` para APIs (mencionaste API/API Rest).
+* `figma` y `canva` para diseño.
+* `linux`, `windows`, `apple` para Sistemas Operativos.
+
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezzz37&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
@@ -49,13 +79,17 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
 ¡Me encantaría conectar y discutir sobre tecnología, proyectos o cualquier cosa interesante!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/ezequiel-pretti-306a40295" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:ezequielpretti@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Correo Electrónico" />
   </a>
+  <a href="https://github.com/ezzz37" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
   </p>
+
 ---
 
 <p align="center">¡Gracias por visitar mi perfil!</p>
