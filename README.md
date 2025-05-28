@@ -22,33 +22,10 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,bash,dotnet,react,nodejs,express,sqlite,mysql,postgresql,azure,ssms,git,github,docker,postman" alt="Mi Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,dotnet,react,nodejs,express,sqlite,az" alt="Lenguajes y Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=psql,git,github,docker,postman" alt="Herramientas y Bases de Datos" />
 </p>
-
-**Notas sobre los iconos:**
-* `c` para C.
-* `kotlin` para Kotlin (se mencionó "librerías de R", pero Kotlin es el lenguaje).
-* `py` para Python.
-* `js` para JavaScript.
-* `html` para HTML.
-* `css` para CSS.
-* `cs` para C#.
-* `ts` para TypeScript.
-* `bash` para Bash Scripting.
-* `react` para React.js.
-* `dotnet` para .NET y ASP.NET.
-* `bootstrap` para Bootstrap.
-* `nodejs` y `express` para APIs/API Rest con Node.js (comunes con JS).
-* `sqlite` para SQLite.
-* `mysql` y `postgresql` (asumo que "SQL Server" se refiere al conocimiento de SQL en general, pero si usaste SQL Server Management Studio, `ssms` también es una opción). Agrego MySQL y PostgreSQL ya que son muy comunes con SQL.
-* `azure` para despliegues en Azure.
-* `git` y `github` para Git/GitHub.
-* `vscode` para Visual Studio Code.
-* `visualstudio` para Visual Studio IDE.
-* `docker` para Docker.
-* `postman` para APIs (mencionaste API/API Rest).
-* `figma` y `canva` para diseño.
-* `linux`, `windows`, `apple` para Sistemas Operativos.
 
 ---
 
