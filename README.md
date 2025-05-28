@@ -22,10 +22,20 @@ Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,dotnet,react,nodejs,express" alt="Lenguajes y Frameworks" />
+  <!-- Lenguajes y Frameworks -->
+  <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,bash,cs,ts,dotnet,react,nodejs,express" alt="Lenguajes y Frameworks" />
   <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,docker,vscode,visualstudio,figma,canva" alt="Bases de Datos y Herramientas" />
+  <!-- Bases de Datos y Herramientas -->
+  <img src="https://skillicons.dev/icons?i=sqlite,sqlserver,git,github,docker,vscode,visualstudio,figma,canva" alt="Bases de Datos y Herramientas" />
+  <br>
+  <!-- Sistemas Operativos -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,macos" alt="Sistemas Operativos" />
+  <br>
+  <!-- Otras Herramientas -->
+  <img src="https://skillicons.dev/icons?i=azure" alt="Cloud y Redes" />
+  <span style="font-family:sans-serif; font-size:14px;">Enterprise Architect, CSM, Redes</span>
 </p>
+
 
 ---
 
