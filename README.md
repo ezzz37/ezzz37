@@ -24,15 +24,11 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,kotlin,py,js,html,css,cs,ts,bash" alt="Lenguajes de Programación" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,nodejs,express" alt="Frameworks y Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express" alt="Frameworks y Desarrollo" />
   <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,azure,github" alt="Bases de Datos y Cloud" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,azure,ssms" alt="Bases de Datos y Cloud" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,docker,postman" alt="Herramientas de Desarrollo y DevOps" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,canva" alt="Diseño y Otros" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="Sistemas Operativos" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Herramientas de Desarrollo" />
 </p>
 
 **Notas sobre los iconos:**
