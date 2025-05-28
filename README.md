@@ -32,12 +32,13 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezzz37&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzz37&theme=dark" alt="Racha de Contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezzz37&show_icons=true&theme=dark&cache_seconds=0" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzz37&theme=dark&cache_seconds=0" alt="Racha de Contribuciones" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzz37&layout=compact&theme=dark" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzz37&layout=compact&theme=dark&cache_seconds=0" alt="Top Lenguajes" />
 </p>
+
 
 ---
 
