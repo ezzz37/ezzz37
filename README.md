@@ -59,4 +59,5 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil!</p>
+![Contribuciones animadas](./github-user-contribution.svg)
+
