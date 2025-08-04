@@ -9,8 +9,6 @@ Soy Ezequiel Pretti, tengo 20 años y actualmente estoy en el tercer año de Ing
 
 He desarrollado diversos proyectos personales que abarcan desde programación y bases de datos hasta scripting y desarrollo móvil. Tengo experiencia en desarrollo, pruebas y despliegues de proyectos web de manera freelancer.
 
-Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el área IT, con el objetivo de seguir creciendo profesionalmente y aplicar mis conocimientos en un entorno real.
-
 - 🌱  Enfocado en aprender y crecer en el mundo del desarrollo de software.
 - 💡  Interesado en la arquitectura de sistemas y la optimización de procesos.
 - 🤝  Abierto a colaborar en proyectos interesantes y contribuir a la comunidad.
