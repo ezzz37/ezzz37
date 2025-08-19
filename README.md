@@ -5,17 +5,18 @@
 
 ### 🚀 Sobre Mí
 
-Soy Ezequiel Pretti, tengo 20 años y actualmente estoy en el tercer año de Ingeniería en Sistemas de Información en la UTN-FRLP, con una gran pasión por la informática y las tecnologías. Me destaco por mi curiosidad, capacidad autodidacta y compromiso con el aprendizaje constante.
+💻 Soy estudiante de Ingeniería en Sistemas de Información en la UTN (3er año), con gran pasión por la tecnología, la programación y el aprendizaje continuo. Me defino como una persona curiosa, autodidacta y comprometida, que busca crecer profesionalmente y aportar valor en cada proyecto.
 
-He desarrollado diversos proyectos personales que abarcan desde programación y bases de datos hasta scripting y desarrollo móvil. Tengo experiencia en desarrollo, pruebas y despliegues de proyectos web de manera freelancer.
+🚀 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
 
-- 🌱  Enfocado en aprender y crecer en el mundo del desarrollo de software.
-- 💡  Interesado en la arquitectura de sistemas y la optimización de procesos.
-- 🤝  Abierto a colaborar en proyectos interesantes y contribuir a la comunidad.
+🔹 Conocimientos autodidactas en .NET, Bash scripting, ASP.NET, API/API Rest, Entity Framework y ADO.NET
+🔹 Desarrollo front-end con React.js y control de versiones con Git/GitHub
+🔹 Manejo de contenedores y orquestación con Docker y Kubernetes
+🔹 Bases de datos relacionales (PostgreSQL, SQL Server, MySQL, SQLite) y no relacionales (DynamoDB, DocumentDB)
+🔹 Administración de sistemas (Linux, Windows, macOS) y fundamentos en seguridad informática
+🔹 Aplicación de metodologías ágiles (Scrum, CI/CD) en entornos colaborativos
 
----
-
-### 💻 Mi Stack Tecnológico
+🎯 Mi objetivo es seguir potenciando mi perfil como desarrollador, especializándome en sistemas distribuidos, soluciones en la nube y arquitecturas escalables, aportando tanto mi capacidad técnica como mi entusiasmo por aprender y crecer en el mundo IT.
 
 Aquí están algunas de las tecnologías y herramientas con las que me siento cómodo trabajando:
 
