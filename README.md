@@ -5,9 +5,7 @@
 
 ### 🚀 Sobre Mí
 
-💻 Soy estudiante de Ingeniería en Sistemas de Información en la UTN (3er año), con gran pasión por la tecnología, la programación y el aprendizaje continuo. Me defino como una persona curiosa, autodidacta y comprometida, que busca crecer profesionalmente y aportar valor en cada proyecto.
-
-🚀 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
+💻 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
 
 🔹 Conocimientos autodidactas en .NET, Bash scripting, ASP.NET, API/API Rest, Entity Framework y ADO.NET
 🔹 Desarrollo front-end con React.js y control de versiones con Git/GitHub
