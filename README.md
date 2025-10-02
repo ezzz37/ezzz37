@@ -8,7 +8,7 @@
 - ⚙️ Desarrollo de **Lambda Handlers** con pruebas locales (SAM CLI) y despliegues en AWS  
 - 🧪 Implementación de **tests unitarios e integraciones** para asegurar calidad de software  
 - 🔄 Escritura y mantenimiento de **pipelines CI/CD**  
-- 💾 Administración de sistemas de almacenamiento: **relacionales, no relacionales y Amazon S3**  
+- 💾 Administración de sistemas de almacenamiento: **relacionales, no relacionales, Amazon S3 y RAG**  
 - 🤖 Desarrollo de **automatizaciones con IA**, orquestando microservicios y agentes  
   - Integraciones con **MCP Server**, flujos en **n8n**, scripts en **Bash/Python**  
 - ☁️ Backend & DevOps con servicios de AWS: **SES, SQS, S3, EC2, Lambda, AMG, AMP**, entre otros  
