@@ -31,11 +31,12 @@ Aquí están algunas de las tecnologías y herramientas con las que me siento c�
 ## 📊 **Stats & Activity**
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicheByte&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff6600&text_color=ffffff&ring_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicheByte&layout=compact&langs_count=16&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RicheByte&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&dates=ffffff"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RicheByte&bg_color=0d1117&color=00ff41&line=ff6600&point=ffffff&area=true&hide_border=true&custom_title=Neural%20Activity%20Matrix"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezzz37&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff6600&text_color=ffffff&ring_color=00ff41" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzz37&layout=compact&langs_count=16&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzz37&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&dates=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezzz37&bg_color=0d1117&color=00ff41&line=ff6600&point=ffffff&area=true&hide_border=true&custom_title=Neural%20Activity%20Matrix" />
 </div>
+
 
 ---
 
