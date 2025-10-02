@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-### 🚀 Sobre Mí
-
 ### ⚡ Lo que hago
 - ⚙️ Desarrollo de **Lambda Handlers** con pruebas locales (SAM CLI) y despliegues en AWS  
 - 🧪 Implementación de **tests unitarios e integraciones** para asegurar calidad de software  
