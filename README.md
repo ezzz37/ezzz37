@@ -7,16 +7,20 @@
 
 ### 🚀 Sobre Mí
 
-💻 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
+👨‍💻 Desarrollador Back-end && DevOps
+Responsable del diseño e implementación de microservicios serverless en Python y Go sobre AWS, con foco en escalabilidad, calidad y automatización.
+⚡ Lo que hago
+⚙️ Desarrollo de Lambda Handlers con pruebas locales (SAM CLI) y despliegues en AWS
+🧪 Implementación de tests unitarios e integraciones para asegurar calidad de software
+🔄 Escritura y mantenimiento de pipelines CI/CD
+💾 Administración de sistemas de almacenamiento: bases de datos relacionales, no relacionales y Amazon S3
+🤖 Desarrollo de automatizaciones con IA, orquestando microservicios y agentes
+Integraciones con MCP Server, flujos en n8n, scripts en Bash/Python
+☁️ Backend & DevOps con servicios de AWS: SES, SQS, S3, EC2, Lambda, AMG, AMP, entre otros
+🏗️ Desarrollo de soluciones tanto core internas como para clientes de la organización
+🎯 Objetivo
 
-🔹 Conocimientos autodidactas en .NET, Bash scripting, ASP.NET, API/API Rest, Entity Framework y ADO.NET
-🔹 Desarrollo front-end con React.js y control de versiones con Git/GitHub
-🔹 Manejo de contenedores y orquestación con Docker y Kubernetes
-🔹 Bases de datos relacionales (PostgreSQL, SQL Server, MySQL, SQLite) y no relacionales (DynamoDB, DocumentDB)
-🔹 Administración de sistemas (Linux, Windows, macOS) y fundamentos en seguridad informática
-🔹 Aplicación de metodologías ágiles (Scrum, CI/CD) en entornos colaborativos
-
-🎯 Mi objetivo es seguir potenciando mi perfil como desarrollador, especializándome en sistemas distribuidos, soluciones en la nube y arquitecturas escalables, aportando tanto mi capacidad técnica como mi entusiasmo por aprender y crecer en el mundo IT.
+Seguir potenciando mi perfil como desarrollador especializado en sistemas distribuidos y arquitecturas escalables en la nube, aportando soluciones confiables y automatizadas que generen valor real.
 
 ### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
