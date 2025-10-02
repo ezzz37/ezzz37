@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Ezequiel Pretti 👋</h1>
+<h1 align="center">DevOps & Backend Dev</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Información</h3>
 
 ---
