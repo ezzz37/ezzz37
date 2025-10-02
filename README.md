@@ -1,5 +1,5 @@
-# 👨‍💻 DevOps & Backend Dev
-**Estudiante de Ingeniería en Sistemas de Información**
+<h1 align="center">👨‍💻 DevOps & Backend Dev</h1>
+<p align="center"><b>Estudiante de Ingeniería en Sistemas de Información</b></p>
 
 ---
 
