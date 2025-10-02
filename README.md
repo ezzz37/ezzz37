@@ -1,7 +1,5 @@
 <h1 align="center">👨‍💻 DevOps & Backend Dev</h1>
 
----
-
 ### 🚀 Sobre Mí
 
 💻 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
