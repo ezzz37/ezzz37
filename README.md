@@ -5,7 +5,6 @@
 </h1>
 
 ## 🚀 Sobre Mí
-👨‍💻 Responsable del diseño e implementación de **microservicios serverless en Python y Go** sobre **AWS**, con foco en **escalabilidad, calidad y automatización**
 
 ### ⚡ Lo que hago
 - ⚙️ Desarrollo de **Lambda Handlers** con pruebas locales (SAM CLI) y despliegues en AWS  
