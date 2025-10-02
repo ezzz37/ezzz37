@@ -4,22 +4,22 @@
   </a>
 </h1>
 
+## 🚀 Sobre Mí
 
-### 🚀 Sobre Mí
+👨‍💻 Responsable del diseño e implementación de **microservicios serverless en Python y Go** sobre **AWS**, con foco en **escalabilidad, calidad y automatización**.  
 
-Responsable del diseño e implementación de microservicios serverless en Python y Go sobre AWS, con foco en escalabilidad, calidad y automatización.
-⚡ Lo que hago
-⚙️ Desarrollo de Lambda Handlers con pruebas locales (SAM CLI) y despliegues en AWS
-🧪 Implementación de tests unitarios e integraciones para asegurar calidad de software
-🔄 Escritura y mantenimiento de pipelines CI/CD
-💾 Administración de sistemas de almacenamiento: bases de datos relacionales, no relacionales y Amazon S3
-🤖 Desarrollo de automatizaciones con IA, orquestando microservicios y agentes
-Integraciones con MCP Server, flujos en n8n, scripts en Bash/Python
-☁️ Backend & DevOps con servicios de AWS: SES, SQS, S3, EC2, Lambda, AMG, AMP, entre otros
-🏗️ Desarrollo de soluciones tanto core internas como para clientes de la organización
-🎯 Objetivo
+### ⚡ Lo que hago
+- ⚙️ Desarrollo de **Lambda Handlers** con pruebas locales (SAM CLI) y despliegues en AWS  
+- 🧪 Implementación de **tests unitarios e integraciones** para asegurar calidad de software  
+- 🔄 Escritura y mantenimiento de **pipelines CI/CD**  
+- 💾 Administración de sistemas de almacenamiento: **relacionales, no relacionales y Amazon S3**  
+- 🤖 Desarrollo de **automatizaciones con IA**, orquestando microservicios y agentes  
+  - Integraciones con **MCP Server**, flujos en **n8n**, scripts en **Bash/Python**  
+- ☁️ Backend & DevOps con servicios de AWS: **SES, SQS, S3, EC2, Lambda, AMG, AMP**, entre otros  
+- 🏗️ Desarrollo de soluciones tanto **core internas** como para **clientes de la organización**  
 
-Seguir potenciando mi perfil como desarrollador especializado en sistemas distribuidos y arquitecturas escalables en la nube, aportando soluciones confiables y automatizadas que generen valor real.
+### 🎯 Objetivo
+Seguir potenciando mi perfil como desarrollador especializado en **sistemas distribuidos** y **arquitecturas escalables en la nube**, aportando **soluciones confiables y automatizadas** que generen valor real.  
 
 ### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
