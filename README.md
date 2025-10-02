@@ -74,25 +74,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezzz37&bg_color=0d1117&color=00ff41&line=ff6600&point=ffffff&area=true&hide_border=true&custom_title=Neural%20Activity%20Matrix" />
 </div>
 
----
-
-### 🌐 Conéctate Conmigo
-
-¡Me encantaría conectar y discutir sobre tecnología, proyectos o cualquier cosa interesante!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ezequiel-pretti-306a40295" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ezequielpretti@hotmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Correo Electrónico" />
-  </a>
-  <a href="https://github.com/ezzz37" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  </p>
-
----
 
 ![Contribuciones animadas](./github-user-contribution.svg)
 
