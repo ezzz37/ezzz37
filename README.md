@@ -1,4 +1,9 @@
-<h1 align="center">👨‍💻 DevOps & Backend Dev</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00D1B2&center=true&vCenter=true&multiline=true&width=900&height=70&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+DevOps+%26+Backend+Dev;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+de+Informaci%C3%B3n" alt="Typing SVG" />
+  </a>
+</p>
+
 ### 🚀 Sobre Mí
 
 💻 Actualmente me desempeño como desarrollador Back-end, con experiencia en Microservicios y arquitecturas Serverless sobre AWS (Lambda, API Gateway, SAM, SQS, SES), así como en el desarrollo de APIs Rest y automatización de procesos con n8n.
