@@ -1,8 +1,9 @@
-<p align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00D1B2&center=true&vCenter=true&multiline=true&width=900&height=70&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+DevOps+%26+Backend+Dev;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+de+Informaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?size=36&pause=800&color=00D1B2&center=true&vCenter=true&width=780&lines=DevOps+%26+Backend+Dev" alt="Typing SVG" />
   </a>
-</p>
+</h1>
+
 
 ### 🚀 Sobre Mí
 
