@@ -2,7 +2,10 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Información</h3>
 
 ---
-<img width="1700" height="460" alt="github-header-banner" src="https://raw.githubusercontent.com/ezzz37/ezzz37/main/assets/github-header-banner.png" />
+<!-- Banner -->
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/069b318b-70b3-40e7-a31f-e6a0b4b4dc14" />
+
+<hr>
 
 ### 🚀 Sobre Mí
 
