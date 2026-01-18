@@ -4,18 +4,25 @@
   </a>
 </h1>
 
-### ⚡ Lo que hago
-- ⚙️ Desarrollo de **Lambda Handlers** con pruebas locales (SAM CLI) y despliegues en AWS  
-- 🧪 Implementación de **tests unitarios e integraciones** para asegurar calidad de software  
-- 🔄 Escritura y mantenimiento de **pipelines CI/CD**  
-- 💾 Administración de sistemas de almacenamiento: **relacionales, no relacionales, Amazon S3 y RAG**  
-- 🤖 Desarrollo de **automatizaciones con IA**, orquestando microservicios y agentes  
-  - Integraciones con **MCP Server**, flujos en **n8n**, scripts en **Bash/Python**  
-- ☁️ Backend & DevOps con servicios de AWS: **SES, SQS, S3, EC2, Lambda, AMG, AMP**, entre otros  
-- 🏗️ Desarrollo de soluciones tanto **core internas** como para **clientes de la organización**  
+⚡ Lo que hago
 
-### 🎯 Objetivo
-Seguir potenciando mi perfil como desarrollador especializado en **sistemas distribuidos** y **arquitecturas escalables en la nube**, aportando **soluciones confiables y automatizadas** que generen valor real.  
+    🚀 Desarrollo de Sistemas de Alto Rendimiento: Especializado en Go (Golang) para la creación de microservicios escalables y procesamiento de baja latencia.
+
+    🏗️ Arquitectura Avanzada: Diseño de soluciones bajo Arquitectura Hexagonal, SOLID y patrones distribuidos como Saga y CQRS.
+
+    ☁️ Cloud Native & Serverless: Implementación de infraestructuras en AWS (Lambda, SQS, SNS, EKS) optimizando la eficiencia de costos y observabilidad.
+
+    ⚙️ Ingeniería de Concurrencia: Optimización de tiempos de respuesta mediante procesamiento asíncrono y workers concurrentes.
+
+    🧪 Calidad y Seguridad: Garantía de robustez con cobertura de testing >80% y gestión de identidad avanzada (AWS Cognito, firmas ECDSA).
+
+    🔄 Automatización & DevOps: Orquestación de contenedores con Docker/Kubernetes y pipelines CI/CD automatizados (GitHub Actions).
+
+    🤖 IA & Workflows: Creación de agentes autónomos y flujos complejos con n8n orientados a la eficiencia de procesos.
+
+🎯 Objetivo
+
+Potenciar mi trayectoria como Ingeniero de Software liderando el diseño de sistemas distribuidos de misión crítica. Mi enfoque está en la eficiencia técnica, la escalabilidad extrema y la creación de arquitecturas que transformen la complejidad en soluciones de alto impacto y bajo costo operativo.
 
 ### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
