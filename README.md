@@ -7,17 +7,11 @@
 ⚡ Lo que hago
 
     🚀 Desarrollo de Sistemas de Alto Rendimiento: Especializado en Go (Golang) para la creación de microservicios escalables y procesamiento de baja latencia.
-
     🏗️ Arquitectura Avanzada: Diseño de soluciones bajo Arquitectura Hexagonal, SOLID y patrones distribuidos como Saga y CQRS.
-
     ☁️ Cloud Native & Serverless: Implementación de infraestructuras en AWS (Lambda, SQS, SNS, EKS) optimizando la eficiencia de costos y observabilidad.
-
     ⚙️ Ingeniería de Concurrencia: Optimización de tiempos de respuesta mediante procesamiento asíncrono y workers concurrentes.
-
     🧪 Calidad y Seguridad: Garantía de robustez con cobertura de testing >80% y gestión de identidad avanzada (AWS Cognito, firmas ECDSA).
-
     🔄 Automatización & DevOps: Orquestación de contenedores con Docker/Kubernetes y pipelines CI/CD automatizados (GitHub Actions).
-
     🤖 IA & Workflows: Creación de agentes autónomos y flujos complejos con n8n orientados a la eficiencia de procesos.
 
 🎯 Objetivo
